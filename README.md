@@ -133,10 +133,10 @@ npm test
 
 ## 👨‍💻 Author
 
-**Shreyanshu**
-- LinkedIn: [linkedin.com/in/shreyanshu-992449271](https://www.linkedin.com/in/shreyanshu-992449271/)
-- GitHub: [github.com/SHREYANSHU](https://github.com/shreyanshu005)
-- Email: shreyanshu005@gmail.com
+**Harsh**
+- LinkedIn: [linkedin.com/in/shreyanshu-992449271](https://www.linkedin.com/in/harsh-singh-34b434319/)
+- GitHub: [github.com/SHREYANSHU](https://github.com/HarshSingh011)
+- Email: harsh2004416@gmail.com
 
 ---
 
