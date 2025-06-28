@@ -134,8 +134,8 @@ npm test
 ## 👨‍💻 Author
 
 **Harsh**
-- LinkedIn: [linkedin.com/in/shreyanshu-992449271](https://www.linkedin.com/in/harsh-singh-34b434319/)
-- GitHub: [github.com/SHREYANSHU](https://github.com/HarshSingh011)
+- LinkedIn: [linkedin.com/in/harsh-singh-34b434319/](https://www.linkedin.com/in/harsh-singh-34b434319/)
+- GitHub: [github.com/HarshSingh011](https://github.com/HarshSingh011)
 - Email: harsh2004416@gmail.com
 
 ---
